@@ -14,7 +14,7 @@ The process to analyze data received by x-ray detectors uses older software whic
 
 Using detector hardware and a multitude of Python libraries, a more responsive application has been created. From this application, many possibilities for improvement and change have been found.
 
-
+## General Info
 
 Created for MineSense during my second work-term at the company.
 
